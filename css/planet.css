@@ -1,0 +1,5 @@
+* { margin: 0; padding: 0; box-sizing: border-box; border: none; outline: none; overflow: hidden; }
+
+body { background-color: hotpink; }
+
+#dang { position: absolute; right: 2em; top: 2em; }
